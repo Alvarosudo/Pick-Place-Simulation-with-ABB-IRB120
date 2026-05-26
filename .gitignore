@@ -1,0 +1,32 @@
+# RobotStudio files
+*.tmp
+*.log
+*.bak
+*_backups/
+*.rsbk
+*.log
+
+# Windows thumbnail cache
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln
+*.vcproj
+*.vcxproj
+*.filters
+
+# OS metadata
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
